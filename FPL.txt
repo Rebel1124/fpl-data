@@ -1,0 +1,13 @@
+https://strikeengine.com/fantasy-football-premier-league-stats-in-excel-csv/
+
+
+https://github.com/vaastav/Fantasy-Premier-League
+
+
+https://understat.com/league/EPL
+
+
+https://towardsdatascience.com/fantasy-premier-league-value-analysis-python-tutorial-using-the-fpl-api-8031edfe9910
+
+
+https://towardsdatascience.com/looping-through-the-fantasy-premier-league-api-element-summary-endpoint-to-download-player-df4ab5151fcb
